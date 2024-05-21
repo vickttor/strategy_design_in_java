@@ -1,0 +1,7 @@
+fatec\ams\modelosepadroes\padrao1\texteditor\compadrao\TextFormatter.class
+fatec\ams\modelosepadroes\padrao1\texteditor\sempadrao\SemPadrao.class
+fatec\ams\modelosepadroes\padrao1\texteditor\TextEditor.class
+fatec\ams\modelosepadroes\padrao1\texteditor\compadrao\ComPadrao.class
+fatec\ams\modelosepadroes\padrao1\texteditor\compadrao\LowercaseFormatter.class
+fatec\ams\modelosepadroes\padrao1\texteditor\compadrao\TextEditor.class
+fatec\ams\modelosepadroes\padrao1\texteditor\compadrao\UppercaseFormatter.class
